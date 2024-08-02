@@ -1,6 +1,5 @@
 # Excel-Project-Cab-Investment-analysis
 
-# Excel-Project-Cab-Investment-analysis
 ## The Client
 XYZ is a private equity firm based in the US. Due to the remarkable growth of cab transportation over the last few years, the firm plans to invest in the cab industry.
 
